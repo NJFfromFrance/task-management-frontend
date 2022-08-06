@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Button, TextField } from '@material-ui/core';
 import styled from 'styled-components';
 
-import './SignUpPage.scss';
+import './SignUpPage.css';
 import { inject } from 'mobx-react';
 import ErrorMessage from '../../components/ErrorMessage';
 
